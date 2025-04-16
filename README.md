@@ -1,1 +1,2 @@
-# odin-recipes
+My current project is to make a website with recipes.
+The skills I will demonstrate includes setting up the html boilerplate, adding content into the body, importance, emphasis, images, opening new links in same and new tabs.
